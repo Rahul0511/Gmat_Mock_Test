@@ -1,5 +1,54 @@
 body
 {
-font-family: 'Inconsolata', monospace;
+font-family: 'Open Sans', sans-serif;
+}
+.red-font
+{
+	color: red;
+}
 
+.ques
+{
+	width: 400px;
+	height:300px;
+}
+.container > .jumbotron
+{
+	height: 30px;
+}
+.container > .jumbotron > h2
+{
+	margin-top: -20px;
+}
+.container > .jumbotron > h3
+{
+	margin-top: -10px;
+}
+hr
+{
+	color: black;
+}
+
+.sol-bro
+{
+	border-style:ridge;
+}
+
+iframe
+{
+	width: 1150px;
+	height: 200px;
+}
+.big-font
+{
+	font-size: 25px;
+}
+.msg
+{
+	width: 1150px;
+	height: 500px;
+}
+.btn-cust
+{
+	width: 300px;
 }
